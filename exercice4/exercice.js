@@ -1,3 +1,6 @@
+
+
 $("p").click(function(){
-    // add code here
+    $("p").removeClass("important");
+    $("p").addClass("important")
 });

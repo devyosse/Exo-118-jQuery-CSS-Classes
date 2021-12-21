@@ -1,0 +1,3 @@
+window.$;
+
+$('p').removeClass('important');
